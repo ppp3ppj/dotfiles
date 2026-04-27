@@ -1,0 +1,11 @@
+[user]
+	email = ppp.3ppj@gmail.com
+	name = ppp3ppj
+[merge]
+	conflictStyle = diff3
+[magit]
+	hideCampaign = true
+[alias]
+    tree = log --graph --decorate --pretty=oneline --abbrev-commit --all
+[init]
+	defaultBranch = main
