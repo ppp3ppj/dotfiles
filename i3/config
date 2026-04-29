@@ -189,3 +189,7 @@ bindsym $mod+r mode "resize"
 bar {
         status_command i3status
 }
+
+focus_follows_mouse no
+
+hide_edge_borders both
